@@ -85,12 +85,4 @@ public class lab{
         l.addBook(b2);
         l.showBooks();
 }
-
-
-
-
-
 }
-
-
-
